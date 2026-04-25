@@ -1,26 +1,8 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Virtual environments
-cars/
-venv/
-.env/
-
-# Dataset & generated outputs
-dataset/
 all_frames/
 denoised_frames/
 detected_frames/
 final_frames/
-
-# Output videos
-*.avi
+output/
 *.mp4
-
-# Python packages
-Lib/
-Scripts/
-Include/
-share/
+*.avi
+*.pt
